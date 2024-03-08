@@ -5,8 +5,6 @@
 -                 A lightweight alternative to jQuery                     -
 ---------------------------------------------------------------------------
 */
-/* PUBLISHED UNDER THE CONDITIONS OF THE GNU LESSER GENERAL PUBLIC LICENSE (LGPL) v2.1 */
-/* See: https://www.gnu.org/licenses/lgpl-3.0                                          */
 
 var version_miniJS = "v0.2";
 
